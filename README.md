@@ -1,0 +1,2 @@
+# Drone1_PLATEAU_Data-Import
+12月のハッカソンとしてPLATEAUの建物データをOSMにインポートする基本的な方法をまとめた
