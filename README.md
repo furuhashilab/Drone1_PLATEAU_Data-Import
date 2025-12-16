@@ -7,5 +7,7 @@ Drone1として、 ***PLATEAUのデータインプットマニュアル*** に�
 ### 日本語版
 https://secondary-blue-22jqwprrna-geuav9dx9m.edgeone.dev/IMG_5191.jpeg
 
+
 ### 英語版
 https://big-pink-c1nalbp1cb-vzmag2d4oa.edgeone.dev/IMG_5190.jpeg
+
